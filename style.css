@@ -43,4 +43,5 @@ section {
   background-repeat: no-repeat;
   float: right;
   background-position: right;
+  overflow: hidden;
 }
